@@ -1,0 +1,9 @@
+# Object file
+*.o
+
+# Ada Library Information
+<<<<<<< HEAD
+*.ali
+=======
+*.ali
+>>>>>>> 9c0e1111c6ab36d8e8a9a77caf12f851fe2a84a5
